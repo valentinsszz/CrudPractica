@@ -1,2 +1,2 @@
 # CrudPractica
-Crud de practica conectado a una DB
+Crud de practica conectado a una DB SQL de manera local
